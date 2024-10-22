@@ -1,7 +1,7 @@
 
 # Counter App
 
-En este proyecto se ha desarrollado un sencilla aplicación web utilizando el framework de React para la web [Next](https://nextjs.org/). El objetivo general es utilizar ``useState`` (hook que React).
+En este proyecto se ha desarrollado un sencilla aplicación web utilizando el framework de React para la web [Next](https://nextjs.org/). El objetivo general es utilizar ``useState`` (Hook de React).
 
 ## Tecnologías utilizadas
 
@@ -19,11 +19,6 @@ Se optó por utilizar Next debido a su declarativa y eficiente forma de crear in
 - **Personalización:** Permitir que el usuario pueda seleccionar un tema.
 
 - **Persistencia de datos:** Guardar el valor del contador en el almacenamiento local del navegador para que se mantenga al recargar la página.
-
-
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1PJLdQsBbwecq8HxtxzPJ_5P4zrRLsaDT/view?usp=sharing)
 
 
 ## Ejecutar localmente
